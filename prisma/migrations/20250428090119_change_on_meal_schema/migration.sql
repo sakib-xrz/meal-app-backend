@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "meals" ALTER COLUMN "date" SET DATA TYPE TEXT;
